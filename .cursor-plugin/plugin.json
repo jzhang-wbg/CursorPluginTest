@@ -1,0 +1,8 @@
+{
+  "name": "custom-cursor-plugin-test",
+  "displayName": "Custom Cursor Plugin Test",
+  "version": "0.1.0",
+  "description": "Test plugin with two rules, an enable config, and a TypeScript session hook.",
+  "rules": "./rules/",
+  "hooks": "./hooks/hooks.json"
+}

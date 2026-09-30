@@ -1,0 +1,8 @@
+{
+  "ruleA": {
+    "enabled": true
+  },
+  "ruleB": {
+    "enabled": false
+  }
+}

@@ -1,0 +1,7 @@
+---
+alwaysApply: false
+---
+
+# Rule B
+
+Rule B is off. It stays out of the chat until you switch it to Always in the plugin panel, or mention @rule-b.
